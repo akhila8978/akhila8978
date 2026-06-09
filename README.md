@@ -1,98 +1,50 @@
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhila8978&label=Profile%20Views&color=0e75b6&style=flat" alt="akhila8978" />
-</div>
-
-<!-- Animated Typing Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Akhila+%F0%9F%91%8B;Data+Engineer+%7C+2.4+Years+Experience;Python+%26+SQL+%7C+ETL+Pipelines;Building+Reliable+Data+Systems" alt="Typing SVG" />
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a **Data Engineer** with **2.4 years of experience** designing and building data pipelines that are clean, scalable, and maintainable. I believe good data engineering is the backbone of every data-driven decision.
-
-- 🐍 &nbsp;**Python & SQL** — my daily tools for transforming and querying data
-- 🔧 &nbsp;**ETL Pipeline Builder** — from raw ingestion to structured, aggregated outputs
-- 🗄️ &nbsp;**SQL & SQLite Databases** — designing schemas and optimizing queries for real use cases
-- 📅 &nbsp;**Learning in Public** — currently on a **30-day Data Engineering mastery challenge**, documenting every step
-- 🎯 &nbsp;Goal: engineer data systems that just work — reliably, every time
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Query**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Data & Pipelines**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-FF6B35?style=flat-square)
-![File Handling](https://img.shields.io/badge/File_I%2FO-6DB33F?style=flat-square)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-**Cloud & AI**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🗄️ SQLite Revenue Pipeline](https://github.com/akhila8978/SQLite-revenue-pipeline) | Python ETL pipeline for city revenue aggregation with SQLite | Python, SQLite, ETL |
-| [📄 Contract Clause Summarizer](https://github.com/akhila8978/contract-clause-summarizer) | Automated summarization of legal contract clauses | Python, NLP |
-| [🐍 Python Beginner Projects](https://github.com/akhila8978/Python_Beginner_Projects) | Projects covering Variables, Loops, OOP & File Handling | Python |
-| [📅 DE Mastery 30 Days](https://github.com/akhila8978/de-mastery-30days-) | Structured 30-day Data Engineering learning challenge | Python, SQL |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhila8978&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhila8978&layout=compact&hide_border=true&theme=default" height="165" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhila8978&theme=flat&no-frame=true&margin-w=10" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-kurre-75582a1bb/)
-[![GitHub](https://img.shields.io/github/followers/akhila8978?label=Follow%20on%20GitHub&style=flat-square&logo=github&color=181717)](https://github.com/akhila8978)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Good data engineering is invisible — it just works."</i>
-</div>
+I want you to transform my GitHub profile README.
+Do NOT ask me any questions. Just execute everything.
+MY DETAILS:
+- Name: Akhila
+- Role: Data Engineer
+- Experience: [2.4] years (fill this in)
+- Tech Stack: Python, SQL, SQLite, Pandas, ETL Pipelines, File Handling, Git, GitHub, VS Code
+- LinkedIn: [YOUR LINKEDIN URL]
+- Portfolio: [YOUR PORTFOLIO URL or remove this line]
+INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
+1. Go to github.com/akhila8978/akhila8978
+   Open README.md → Click Edit (pencil icon)
+2. Delete ALL existing content
+3. Create and paste this complete README:
+SECTION A: ANIMATED HEADER
+- Add komarev visitor counter badge at the top
+- Add animated typing effect using readme-typing-svg
+  showing: "Data Engineer | Python & SQL | ETL Pipelines | Building Reliable Data Systems"
+SECTION B: ABOUT ME
+- Short confident intro as a Data Engineer
+- Mention 30-day DE mastery challenge (learning in public)
+- 3-4 bullet points: Python & SQL expertise, ETL pipeline builder, SQL/SQLite databases, continuous learner
+- Use relevant emojis
+SECTION C: TECH STACK
+- Add shields.io badges for: Python, SQL, SQLite, Pandas, Git, GitHub, VS Code
+- Organize by: Languages & Query | Data & Pipelines | Tools
+SECTION D: FEATURED PROJECTS
+- Table with 4 projects:
+  1. SQLite Revenue Pipeline - github.com/akhila8978/SQLite-revenue-pipeline
+  2. Contract Clause Summarizer - github.com/akhila8978/contract-clause-summarizer
+  3. Python Beginner Projects - github.com/akhila8978/Python_Beginner_Projects
+  4. DE Mastery 30 Days - github.com/akhila8978/de-mastery-30days-
+SECTION E: GITHUB STATS
+- GitHub Stats Card (anuraghazra/github-readme-stats) for username: akhila8978
+- Top Languages Card for username: akhila8978
+- Theme: default (clean/light)
+SECTION F: GITHUB TROPHIES
+- GitHub Profile Trophy (ryo-ma/github-profile-trophy) for username: akhila8978
+- Theme: flat
+SECTION G: SOCIAL LINKS
+- LinkedIn badge (clickable)
+- GitHub follow badge
+SECTION H: FOOTER
+- Closing line: "Good data engineering is invisible — it just works."
+4. Click Commit changes to save automatically
+RULES:
+- Do NOT ask any questions. Just do it.
+- Do NOT stop in the middle. Complete everything.
+- Use akhila8978 as the GitHub username in all stat card URLs.
+- Make it professional, clean, and modern.
