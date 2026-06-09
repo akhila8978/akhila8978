@@ -27,14 +27,24 @@ I'm a **Data Engineer** with **2.4 years of experience** designing and building 
 **Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Data & Pipelines**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-FF6B35?style=flat-square)
 ![File Handling](https://img.shields.io/badge/File_I%2FO-6DB33F?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**Cloud & AI**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Tools**
 
