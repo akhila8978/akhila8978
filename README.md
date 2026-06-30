@@ -1,14 +1,20 @@
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=akhila8978&color=blue&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=200&section=header&text=Hi,%20I'm%20Akhila%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20Cloud%20%26%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+Python+%26+SQL+%7C+ETL+Pipelines;Building+Reliable+Data+Systems)](https://git.io/typing-svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=akhila8978&color=0F2027&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+Python+%26+SQL+%7C+ETL+Pipelines;Building+Reliable+Data+Systems;AWS+%2B+Snowflake+%2B+Databricks)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
 ## 👩‍💻 About Me
 
-I'm a Data Engineer at Tata Consultancy Services (TCS) with 2+ years of enterprise IT experience, combining Production Support with hands-on Data Engineering. I build, monitor, and troubleshoot ETL/ELT pipelines processing 1M+ rows/day with 99.9% SLA.
+I'm a System Engineer at Tata Consultancy Services (TCS) with 2+ years of enterprise IT experience, combining Production Support with hands-on Data Engineering. I build, monitor, and troubleshoot ETL/ELT pipelines processing 1M+ rows/day with 99.9% SLA.
 
 - 🏢 Systems Engineer @ TCS — Data Engineering & Production Support (Mar 2024 – Present)
 - ☁️ AWS & Cloud Certified — 5 certifications including AWS DevOps Pro, Developer Associate & AI Practitioner
@@ -17,58 +23,49 @@ I'm a Data Engineer at Tata Consultancy Services (TCS) with 2+ years of enterpri
 - 📅 Learning in Public — 30-day Data Engineering mastery challenge, documenting every step
 - 🎯 Actively transitioning into a full-time Data Engineer role focused on cloud data platforms & analytics engineering
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
 ## 🛠️ Tech Stack
 
-**Languages & Scripting**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,java,bash,linux&theme=dark" /><br/><sub><b>Languages & Scripting</b></sub>
 
-**AWS Cloud**
+<br/><br/>
 
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![AWS EMR](https://img.shields.io/badge/AWS%20EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+![AWS Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<br/><sub><b>AWS Cloud — S3 · Lambda · Glue · Redshift · EMR · CloudWatch · Step Functions · EventBridge</b></sub>
 
-**Data Warehousing & Big Data**
+<br/><br/>
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kafka,sqlite&theme=dark" />
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+<br/><sub><b>Data Warehousing & Big Data</b></sub>
 
-**Orchestration & ELT**
+<br/><br/>
 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+<br/><sub><b>Orchestration & ELT</b></sub>
 
-**Data Quality & Governance**
+<br/><br/>
 
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6A00?style=for-the-badge&logo=greatexpectations&logoColor=white)
-![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,git&theme=dark" /><br/><sub><b>DevOps & IaC</b></sub>
 
-**DevOps & IaC**
+<br/><br/>
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+<br/><sub><b>AI/ML · Splunk · VS Code</b></sub>
 
-**AI & Monitoring**
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ## 🚀 Featured Projects
 
@@ -81,6 +78,7 @@ I'm a Data Engineer at Tata Consultancy Services (TCS) with 2+ years of enterpri
 | 🗄️ [SQLite Revenue Pipeline](https://github.com/akhila8978/SQLite-revenue-pipeline) | Python ETL pipeline for city revenue aggregation with SQLite | Python, SQLite, ETL |
 | 📄 [Contract Clause Summarizer](https://github.com/akhila8978/contract-clause-summarizer) | Automated summarization of legal contract clauses using NLP | Python, NLP |
 | 🐍 [Python Beginner Projects](https://github.com/akhila8978/Python_Beginner_Projects) | Collection of foundational Python projects covering core programming concepts | Python |
+| ❄️ [Snowflake Handson](https://github.com/akhila8978/Snowflake-Handson) | Hands-on Snowflake data warehousing exercises and pipeline practice | Snowflake, SQL |
 | 📅 [DE Mastery 30 Days](https://github.com/akhila8978/de-mastery-30days) | Structured 30-day Data Engineering learning challenge, learning in public | Python, SQL |
 
 ## 🏅 Key Achievements
@@ -104,20 +102,24 @@ I'm a Data Engineer at Tata Consultancy Services (TCS) with 2+ years of enterpri
 | 🥇 Microsoft Power BI Data Analyst Associate (PL-300) | 2027 |
 | 🥇 Databricks Certified Data Engineer Associate | — |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhila8978&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhila8978&layout=compact&theme=default)
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=akhila8978&theme=flat&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=akhila8978&theme=tokyonight&row=1&column=7&margin-w=8)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akhila8978&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhila8978&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhila8978&theme=tokyonight&hide_border=true&background=00000000" width="60%"/>
 
 </div>
 
@@ -128,12 +130,10 @@ I'm a Data Engineer at Tata Consultancy Services (TCS) with 2+ years of enterpri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhila8978)
 
-</div>
+<br/>
 
----
+<i>"Good data engineering is invisible — it just works."</i>
 
-<div align="center">
-
-*"Good data engineering is invisible — it just works."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=100&section=footer" width="100%"/>
 
 </div>
