@@ -108,6 +108,7 @@ I'm a System Engineer at Tata Consultancy Services (TCS) with 2+ years of enterp
 | 🥇 AWS Certified AI Practitioner | Jul 2028 |
 | 🥇 Google Cloud Generative AI Leader | Oct 2028 |
 | 🥇 Microsoft Power BI Data Analyst Associate (PL-300) | 2027 |
+| 🥇 Databricks Certified Data Engineer Associate | TBD |
 
 ## 📊 GitHub Stats
 
@@ -130,8 +131,9 @@ I'm a System Engineer at Tata Consultancy Services (TCS) with 2+ years of enterp
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-kurre8803/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhila8978)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhila8978.github.io-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akhila8978.github.io)
 
 </div>
 
