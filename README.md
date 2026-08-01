@@ -8,11 +8,17 @@
 I'm a **Data Engineer at Tata Consultancy Services (TCS)**, currently titled Systems Engineer, with **2.5 years** building ETL/ELT pipelines, CDC-based ingestion, and cloud data platforms across AWS and Snowflake for production workloads.
 
 - 🏢 **System Engineer @ TCS** — Data Engineering & Cloud Support (Mar 2024 – Present)
+
 - ☁️ **Certified Across AWS, Azure & GCP** — Databricks Certified Data Engineer Associate, AWS Certified Developer Associate, AWS Certified AI Practitioner, Microsoft Certified: Fabric Data Engineer Associate, Google Cloud Generative AI Leader, Microsoft PL-300
+
 - 🤖 **Applied Generative AI experience** — RAG pipelines (ingestion, chunking, embeddings, vector retrieval, LLM inference) served via FastAPI, extending data engineering skills into LLM-powered application development
+
 - 🏆 **1st Place — TCS AI Fridays Season 2** for a GenAI/RAG contract intelligence prototype
+
 - 📐 Built production ETL/ELT and CDC pipelines on Snowflake + AWS processing **1M+ records/day** at **99%+ SLA compliance**
+
 - 📅 **Learning in public** — actively extending pipeline skills into orchestration (Airflow), transformation testing (dbt), and streaming (Kafka) through personal projects
+
 - 🎯 Actively pursuing full-time Data Engineer and AI Engineer roles focused on cloud data platforms, analytics engineering, and GenAI applications
 
 ---
@@ -81,8 +87,6 @@ I'm a **Data Engineer at Tata Consultancy Services (TCS)**, currently titled Sys
 ---
 
 ## 🏅 Key Achievements
-
-*(matches resume exactly — one set of numbers, everywhere)*
 
 - 📈 Built production ETL/ELT and CDC pipelines processing **1M+ records/day** at **99%+ SLA compliance** on AWS + Snowflake
 - 🚀 Improved SQL query performance by **25%** via CTE/window-function refactoring and query tuning across Snowflake and Redshift
