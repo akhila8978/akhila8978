@@ -77,12 +77,12 @@ I'm a **Data Engineer at Tata Consultancy Services (TCS)**, currently titled Sys
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧊 Retail Snowflake Pipeline *(repo pending)* | Multi-layer Snowflake pipeline (raw → staging → analytics) with Snowpipe ingestion, RBAC, Streams & Tasks CDC, Time Travel, and Zero-Copy Cloning. | Snowflake, SQL, RBAC |
-| 🧱 Retail dbt Transformation Layer *(repo pending)* | Extends the pipeline above with a tested, documented dbt layer — star schema (fact/dim models), schema tests, and custom business-rule tests. | dbt, Snowflake, SQL |
-| 🌦️ Weather ETL Pipeline with Airflow *(repo pending)* | End-to-end ETL extracting real-time weather from the Open-Meteo API, transforming with Pandas, loading to SQLite, orchestrated as an Airflow DAG every 6 hours with SLA alerts and retry logic. | Python, Airflow, Pandas, SQLite |
+| 🧊 Retail Snowflake Pipeline *(https://github.com/akhila8978/retail-order-dbt-pipeline)* | Multi-layer Snowflake pipeline (raw → staging → analytics) with Snowpipe ingestion, RBAC, Streams & Tasks CDC, Time Travel, and Zero-Copy Cloning. | Snowflake, SQL, RBAC |
+| 🧱 Retail dbt Transformation Layer ** | Extends the pipeline above with a tested, documented dbt layer — star schema (fact/dim models), schema tests, and custom business-rule tests. | dbt, Snowflake, SQL |
+| 🌦️ Weather ETL Pipeline with Airflow ** | End-to-end ETL extracting real-time weather from the Open-Meteo API, transforming with Pandas, loading to SQLite, orchestrated as an Airflow DAG every 6 hours with SLA alerts and retry logic. | Python, Airflow, Pandas, SQLite |
 | [📄 Contract Clause Summarizer](https://github.com/akhila8978/contract-clause-summarizer) | RAG pipeline — document ingestion, embeddings, vector retrieval, LLM inference — served via FastAPI. 1st Place, TCS AI Fridays Season 2. | Python, FastAPI, OpenAI API, RAG |
 | [🗄️ SQLite Revenue Pipeline](https://github.com/akhila8978/SQLite-revenue-pipeline) | Python ETL pipeline for city revenue aggregation. | Python, SQLite, ETL |
-| 🌾 Agriculture Aid *(repo pending)* | CNN-based image classification model detecting bacterial, viral, and fungal diseases in plant leaves for early farmer intervention. Academic project, Warangal. | Python, CNN, TensorFlow/Keras |
+| 🌾 Agriculture Aid ** | CNN-based image classification model detecting bacterial, viral, and fungal diseases in plant leaves for early farmer intervention. Academic project, Warangal. | Python, CNN, TensorFlow/Keras |
 
 ---
 
@@ -101,9 +101,9 @@ I'm a **Data Engineer at Tata Consultancy Services (TCS)**, currently titled Sys
 | 🥇 Databricks Certified Data Engineer Associate | Jun 2028 |
 | 🥇 AWS Certified Developer – Associate | Jan 2029 |
 | 🥇 AWS Certified AI Practitioner | Jul 2028 |
-| 🥇 Microsoft Certified: Fabric Data Engineer Associate | — |
+| 🥇 Microsoft Certified: Fabric Data Engineer Associate | Aug 2027|
 | 🥇 Google Cloud Generative AI Leader | Oct 2028 |
-| 🥇 Microsoft Power BI Data Analyst Associate (PL-300) | 2027 |
+| 🥇 Microsoft Power BI Data Analyst Associate (PL-300) | Sep 2027 |
 
 ---
 
